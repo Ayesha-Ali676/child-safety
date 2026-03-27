@@ -14,7 +14,7 @@ Safety First | Uncertainty Aware | Always Escalate
 """
 
 __version__ = "0.1.0"
-__author__ = "EPCID Team"
+__author__ = "Ayesha-Ali676"
 __license__ = "MIT"
 
 from typing import Final

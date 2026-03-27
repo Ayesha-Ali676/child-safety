@@ -103,7 +103,7 @@ Authorization: Bearer <your_token>
             "url": "https://opensource.org/licenses/MIT",
         },
         contact={
-            "name": "EPCID Team",
+            "name": "Ayesha-Ali676",
             "email": "support@epcid.health",
         },
     )

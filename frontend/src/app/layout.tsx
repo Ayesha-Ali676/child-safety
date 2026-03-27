@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: 'EPCID | Early Pediatric Critical Illness Detection',
   description: 'AI-powered pediatric health monitoring and early illness detection for caregivers',
   keywords: ['pediatric', 'health', 'AI', 'illness detection', 'children', 'monitoring'],
-  authors: [{ name: 'EPCID Team' }],
+  authors: [{ name: 'Ayesha-Ali676' }],
   manifest: '/manifest.json',
   icons: {
     icon: '/favicon.svg',

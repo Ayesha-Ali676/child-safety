@@ -10,7 +10,7 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.10"
 authors = [
-    {name = "EPCID Team", email = "team@epcid.health"}
+    {name = "Ayesha-Ali676", email = "Ayesha-Ali676@github.com"}
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",

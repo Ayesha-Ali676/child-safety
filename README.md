@@ -756,7 +756,7 @@ Open `http://localhost:3000` (or the port specified in your console, usually `30
 
 ## 👥 Team
 
-Built with ❤️ by **Team EPCID** for the [Gemini Live Agent Challenge](https://geminiliveagentchallenge.devpost.com/)
+Built with ❤️ for the [Gemini Live Agent Challenge](https://geminiliveagentchallenge.devpost.com/)
 
 ---
 
